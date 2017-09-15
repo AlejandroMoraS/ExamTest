@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">BICICLETA VINTAGE</string>
+    <string name ="color">COLOR</string>
+    <string name ="pequeña">S</string>
+    <string name = "mediana">M</string>
+    <string name = "grande">G</string>
+    <string name = "extra_grande">XG</string>
+    <string name = "descripcion">DESCRIPCION</string>
+    <string name = "descripcion_texto">Marco de acero ligero de encargo. Sin restaurar en condiciones originales hermosas. Ligeramente utilizado y bien cuidado. Demasiado super acumulación de discos</string>
+    <string name = "measurement">MEDICION</string>
+    <string name ="measurement_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar pellentesque augue, eu elementum arcu pellentesque vitae. Donec porttitor arcu nec lobortis fringilla. Pellentesque est turpis, interdum quis est ut, convallis consectetur est. Aliquam viverra dictum risus. Aenean faucibus magna ac pulvinar cursus.</string>
+    <string name = "add_cart_text">Agregar al carrito</string>
+
+    <string name = "examtest">ExamTest</string>
+    <string name = "undo_string">UNDO</string>
+
+
+</resources>

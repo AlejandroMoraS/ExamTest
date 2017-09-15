@@ -1,0 +1,17 @@
+<resources>
+    <string name="titulo">VINTAGE BICYCLE</string>
+    <string name ="color">COLOR</string>
+    <string name ="pequeña">S</string>
+    <string name = "mediana">M</string>
+    <string name = "grande">L</string>
+    <string name = "extra_grande">XL</string>
+    <string name = "descripcion">DESCRIPTION</string>
+    <string name = "descripcion_texto">Custom lightweight steel frame. Unrestored
+    in beautiful original condition. Lightly used and well kept. Dull super record build</string>
+    <string name = "measurement">MEASUREMENT</string>
+    <string name ="measurement_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar pellentesque augue, eu elementum arcu pellentesque vitae. Donec porttitor arcu nec lobortis fringilla. Pellentesque est turpis, interdum quis est ut, convallis consectetur est. Aliquam viverra dictum risus. Aenean faucibus magna ac pulvinar cursus.</string>
+    <string name = "add_cart_text">add to cart</string>
+
+    <string name = "examtest">ExamTest</string>
+    <string name = "undo_string">UNDO</string>
+</resources>
